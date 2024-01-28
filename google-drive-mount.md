@@ -43,6 +43,19 @@ cd 2024-big-data
 > - 구글 드라이브에서 노트북 파일로 이동해 열기
 > ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/e41e9d8e-e8dd-4e37-af72-877fc389c5e7)
 
+## 노트북 파일에서 마운트된 이후에 데이터 파일 열기
+
+> - 데이터 파일에서 '경로 복사'
+> ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/b0aba6bb-a926-41a2-a89f-8f666e3c2c26)
+
+> 다음 체크
+> ```sh
+> ls /content/gdrive/MyDrive/2024-big-data/do_it_pandas/data/gapminder.tsv
+> ```
+
+> 다음으로 코딩
+> ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/b62c8303-351e-41d8-8a12-6a992c6fba26)
+
 
 
 

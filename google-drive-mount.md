@@ -54,6 +54,7 @@ cd 2024-big-data
 > ```
 
 > 다음으로 코딩
+> 
 > ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/b62c8303-351e-41d8-8a12-6a992c6fba26)
 
 

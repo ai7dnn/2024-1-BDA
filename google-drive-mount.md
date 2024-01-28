@@ -17,6 +17,10 @@ drive.mount('/content/gdrive')
 ## 연결된 상태 확인
 > ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/7f95112a-bd86-4512-9a95-756dd831e668)
 
+- 다음 아이콘으로도 바로 마운트 가능, 이 경우 /content/drive/MyDrive 로 자동 연결
+> ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/33d8219d-9d9f-450e-adf3-a7d149c320b3)
+ 
+
 ## 구글 드라이브의 저장 폴더 생성 및 이동
 
 ```sh
@@ -34,6 +38,11 @@ cd 2024-big-data
 
 ## 저장소 복제 확인
 > ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/610c5160-daaa-4afd-960f-d3cb70d7102d)
+
+## 복제된 노트북 파일 편집
+> - 구글 드라이브에서 노트북 파일로 이동해 열기
+> ![image](https://github.com/ai7dnn/2024-1-BDA/assets/70050528/e41e9d8e-e8dd-4e37-af72-877fc389c5e7)
+
 
 
 

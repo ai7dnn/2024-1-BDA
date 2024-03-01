@@ -2,7 +2,7 @@
 ## [깃허브](https://github.com/ai7dnn/2024-1-BDA)
 
 ## 교재 
-- [2023-2 데이터분석입문](https://github.com/ai7dnn/2023-DA)
+- [Do it! 쉽게 배우는 파이썬 데이터 분석]([https://github.com/ai7dnn/2023-DA](https://github.com/youngwoos/Doit_Python))
 - [Our World in Data](https://github.com/owid)
 
 ## 부교재 

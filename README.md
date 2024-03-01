@@ -2,8 +2,8 @@
 ## [깃허브](https://github.com/ai7dnn/2024-1-BDA)
 
 ## 교재 
-- [Do it! 쉽게 배우는 파이썬 데이터 분석]([https://github.com/ai7dnn/2023-DA](https://github.com/youngwoos/Doit_Python))
-- [Our World in Data](https://github.com/owid)
+- [Do it! 쉽게 배우는 파이썬 데이터 분석](https://github.com/ai7dnn/2023-DA](https://github.com/youngwoos/Doit_Python)
+- [간편 강의 자료](https://youngwoos.github.io/Doit_Python/04.html#/title-slide)
 
 ## 부교재 
 - 부교재, [DoIt 데이터분석을 위한 판다스입문](https://github.com/EasysPublishing/do_it_pandas)

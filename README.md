@@ -5,6 +5,10 @@
 - [Do it! 쉽게 배우는 파이썬 데이터 분석](https://github.com/youngwoos/Doit_Python)
 - [간편 강의 자료](https://youngwoos.github.io/Doit_Python/04.html#/title-slide)
 
+## 수업 중 작업  
+- [월요일 수업(A반)](https://docs.google.com/spreadsheets/d/1gFX-pqVIVzodSHhU1leDEkWLP6X1MvXD-lxOSEY1fFI/edit?usp=sharing)
+- [화요일 수업(B반)](https://docs.google.com/spreadsheets/d/1xyES5GT3wLlogvHqvmMreAMlFNSjzUpki0VJpf4c7ew/edit?usp=sharing)
+  
 ## 부교재 
 - 부교재, [DoIt 데이터분석을 위한 판다스입문](https://github.com/EasysPublishing/do_it_pandas)
 - 부교재, [파이썬 라이브러리를 활용한 데이터분석](https://github.com/wesm/pydata-book)
